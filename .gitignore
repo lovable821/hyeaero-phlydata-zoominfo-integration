@@ -1,0 +1,8 @@
+.env
+.localhost-cert.pem
+.localhost-key.pem
+.venv/
+venv/
+__pycache__/
+*.pyc
+output/
