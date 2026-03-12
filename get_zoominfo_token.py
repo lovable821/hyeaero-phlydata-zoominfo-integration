@@ -103,7 +103,7 @@ def get_new_token():
     with open(env_path, "w", encoding="utf-8") as f:
         f.writelines(lines)
     print("  Updated .env with ZOOMINFO_ACCESS_TOKEN" + (" and ZOOMINFO_REFRESH_TOKEN" if new_refresh else ""))
-    print("  Run: python test_zoominfo_connection.py")
+    print("  Next: python test_zoominfo_connection.py   or   python zoominfo_enrich_company.py -n \"Apex Aircraft Sales\"")
 
 
 if __name__ == "__main__":

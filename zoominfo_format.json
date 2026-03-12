@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "certified": true,
+        "city": "Markham",
+        "companyStatus": "ALIVE",
+        "continent": "North America",
+        "country": "Canada",
+        "employeeCount": 5,
+        "employeeRange": "5 - 10",
+        "foundedYear": "1984",
+        "industries": [
+          "Retail",
+          "Automobile Dealers"
+        ],
+        "locationCount": 1,
+        "name": "Apex Aircraft Sales",
+        "numberOfContactsInZoomInfo": 1,
+        "parentId": 0,
+        "phone": "(905) 477-7900",
+        "revenue": 1374,
+        "socialMediaUrls": [
+          {
+            "type": "LINKED_IN",
+            "url": "https://www.linkedin.com/company/apex-aircraft-sales-ltd."
+          },
+          {
+            "followerCount": "89",
+            "type": "FACEBOOK",
+            "url": "https://www.facebook.com/apex-aircraft-sales-ltd-193725143998455"
+          }
+        ],
+        "state": "Ontario",
+        "street": "2833 16th Ave Box 220",
+        "website": "www.apexaircraft.com",
+        "zipCode": "L3R 0P8"
+      },
+      "id": "7327475",
+      "meta": {
+        "input": {
+          "companyName": "apex aircraft sales"
+        },
+        "matchStatus": "FULL_MATCH"
+      },
+      "type": "Company"
+    }
+  ]
+}

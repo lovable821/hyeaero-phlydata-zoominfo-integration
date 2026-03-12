@@ -32,6 +32,10 @@ Owner lookup uses `aircraft` as the link: match by `serial_number` (and optional
 
 ## Test ZoomInfo connection
 
+**Quick: get a new access token directly (no portal)**  
+If your token is invalid or expired (401), run: **`python get_zoominfo_token.py`** (or `get_token.cmd` on Windows).  
+Requires `ZOOMINFO_CLIENT_ID`, `ZOOMINFO_CLIENT_SECRET`, and `ZOOMINFO_REFRESH_TOKEN` in `.env`. First time? See [GET_ACCESS_TOKEN.md](GET_ACCESS_TOKEN.md) and [GET_REFRESH_TOKEN.md](GET_REFRESH_TOKEN.md).
+
 ### Option A — Manual token (Developer Portal)
 
 1. Log in to [ZoomInfo Developer Portal](https://developer.zoominfo.com) → your app → **Bearer Token** → **Generate**.

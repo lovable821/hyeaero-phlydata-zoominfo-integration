@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "certified": false,
+        "city": "Chicago",
+        "companyStatus": "ALIVE",
+        "continent": "North America",
+        "country": "United States",
+        "employeeCount": 9,
+        "employeeRange": "5 - 10",
+        "foundedYear": "1976",
+        "industries": [
+          "Law Firms & Legal Services"
+        ],
+        "locationCount": 5,
+        "name": "Robert J Adams & Associates",
+        "numberOfContactsInZoomInfo": 3,
+        "parentId": 0,
+        "phone": "(312) 872-8443",
+        "revenue": 1058,
+        "socialMediaUrls": [
+          {
+            "type": "LINKED_IN",
+            "url": "https://www.linkedin.com/company/robert-j-adams-&-associates"
+          },
+          {
+            "followerCount": "600",
+            "type": "FACEBOOK",
+            "url": "https://www.facebook.com/robertadamslaw"
+          }
+        ],
+        "state": "Illinois",
+        "street": "540 W 35th St Fl 1",
+        "website": "www.robertadamslaw.com",
+        "zipCode": "60616"
+      },
+      "id": "355975055",
+      "meta": {
+        "input": {
+          "companyName": "robert j adams & associates"
+        },
+        "matchStatus": "FULL_MATCH"
+      },
+      "type": "Company"
+    }
+  ]
+}
